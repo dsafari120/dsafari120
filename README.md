@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @dsafari120
-- 👀 I’m interested in php , laravel , javascript
+- 👋 Hi, I’m Davoud Safari
+- 👀 I’m interested in php , laravel , javascript , golang
 - 🌱 I’m  backend developer espicificly
 - 💞️ I’m looking to collaborate on php and laravel project
 - 📫 How to reach me : dsafari120@gmail.com 
